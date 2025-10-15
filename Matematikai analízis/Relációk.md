@@ -1,3 +1,4 @@
+
 [[Descardes szotzat]]  [[Halmazok]]
 - A rendezett elempár alapfogalom
 jelölése (a,b)
@@ -31,3 +32,5 @@ Ezeket szokás bináris relációnak nevezni
 A bináris reláció fogalma alatt két halmaz közötti megfeleltetést értünk a relációkat irányított gráffal szemléltetjük
 
 ![[Pasted image 20250913201915.png]]
+##### Megjegyzés:
+Ha a függvényt és az invertét is ábrázoljuk

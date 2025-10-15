@@ -29,6 +29,9 @@ Komplementer #füzet
 ### Bizonyítás
 A definiciokat alapul véve a kölcsönös tartalmazásra támaszkodva végezhető el
 
+A düggvények speciális halmazok
+
+[[Relációk]]
 
 
 
