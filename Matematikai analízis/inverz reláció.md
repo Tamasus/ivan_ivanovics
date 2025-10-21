@@ -1,2 +1,0 @@
-#füzet 
-[[Relációk]]
